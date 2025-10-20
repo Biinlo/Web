@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Sense of Urgency
 asdasd
-=======
-Sense of Urgency
->>>>>>> a6872371f4553a00db27f3d235ee260670049f80
+
